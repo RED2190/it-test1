@@ -72,8 +72,8 @@ header li:hover{
     display: none;
     position: fixed;
     z-index: 2;
-    top: 5%;
-    right: 5%;
+    top: 3%;
+    right: 7%;
 }
 .line{
     background-color: white;
